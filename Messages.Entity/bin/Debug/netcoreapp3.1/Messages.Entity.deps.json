@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Messages.Entity/1.0.0": {
+        "dependencies": {
+          "Microsoft.Azure.DocumentDB": "2.16.2"
+        },
+        "runtime": {
+          "Messages.Entity.dll": {}
+        }
+      },
+      "Microsoft.Azure.DocumentDB/2.16.2": {
+        "runtimeTargets": {
+          "runtimes/win7-x64/native/Cosmos.CRTCompat.dll": {
+            "rid": "win7-x64",
+            "assetType": "native",
+            "fileVersion": "2.0.0.0"
+          },
+          "runtimes/win7-x64/native/Microsoft.Azure.Documents.ServiceInterop.dll": {
+            "rid": "win7-x64",
+            "assetType": "native",
+            "fileVersion": "2.16.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Messages.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Azure.DocumentDB/2.16.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JKhJAFJkJX52kBGPm0i0eADubbYh0VO+uXVMDC5wsybAOaWDEBOJpUcihn9xS8rjvl8FTkzC/GkEW2w6vJu35Q==",
+      "path": "microsoft.azure.documentdb/2.16.2",
+      "hashPath": "microsoft.azure.documentdb.2.16.2.nupkg.sha512"
+    }
+  }
+}

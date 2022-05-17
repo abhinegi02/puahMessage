@@ -1,0 +1,16 @@
+D:\cosmoDb\Messages.Repo\bin\Debug\netcoreapp3.1\Microsoft.Azure.Documents.ServiceInterop.dll
+D:\cosmoDb\Messages.Repo\bin\Debug\netcoreapp3.1\Cosmos.CRTCompat.dll
+D:\cosmoDb\Messages.Repo\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+D:\cosmoDb\Messages.Repo\bin\Debug\netcoreapp3.1\Messages.Repo.deps.json
+D:\cosmoDb\Messages.Repo\bin\Debug\netcoreapp3.1\Messages.Repo.dll
+D:\cosmoDb\Messages.Repo\bin\Debug\netcoreapp3.1\Messages.Repo.pdb
+D:\cosmoDb\Messages.Repo\bin\Debug\netcoreapp3.1\Messages.Entity.dll
+D:\cosmoDb\Messages.Repo\bin\Debug\netcoreapp3.1\Messages.Entity.pdb
+D:\cosmoDb\Messages.Repo\obj\Debug\netcoreapp3.1\Messages.Repo.csproj.AssemblyReference.cache
+D:\cosmoDb\Messages.Repo\obj\Debug\netcoreapp3.1\Messages.Repo.GeneratedMSBuildEditorConfig.editorconfig
+D:\cosmoDb\Messages.Repo\obj\Debug\netcoreapp3.1\Messages.Repo.AssemblyInfoInputs.cache
+D:\cosmoDb\Messages.Repo\obj\Debug\netcoreapp3.1\Messages.Repo.AssemblyInfo.cs
+D:\cosmoDb\Messages.Repo\obj\Debug\netcoreapp3.1\Messages.Repo.csproj.CoreCompileInputs.cache
+D:\cosmoDb\Messages.Repo\obj\Debug\netcoreapp3.1\Messages.Repo.csproj.CopyComplete
+D:\cosmoDb\Messages.Repo\obj\Debug\netcoreapp3.1\Messages.Repo.dll
+D:\cosmoDb\Messages.Repo\obj\Debug\netcoreapp3.1\Messages.Repo.pdb

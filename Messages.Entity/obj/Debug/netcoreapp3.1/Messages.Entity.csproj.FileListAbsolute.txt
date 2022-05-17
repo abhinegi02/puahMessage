@@ -1,0 +1,12 @@
+D:\cosmoDb\Messages.Entity\bin\Debug\netcoreapp3.1\Microsoft.Azure.Documents.ServiceInterop.dll
+D:\cosmoDb\Messages.Entity\bin\Debug\netcoreapp3.1\Cosmos.CRTCompat.dll
+D:\cosmoDb\Messages.Entity\bin\Debug\netcoreapp3.1\Messages.Entity.deps.json
+D:\cosmoDb\Messages.Entity\bin\Debug\netcoreapp3.1\Messages.Entity.dll
+D:\cosmoDb\Messages.Entity\bin\Debug\netcoreapp3.1\Messages.Entity.pdb
+D:\cosmoDb\Messages.Entity\obj\Debug\netcoreapp3.1\Messages.Entity.csproj.AssemblyReference.cache
+D:\cosmoDb\Messages.Entity\obj\Debug\netcoreapp3.1\Messages.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\cosmoDb\Messages.Entity\obj\Debug\netcoreapp3.1\Messages.Entity.AssemblyInfoInputs.cache
+D:\cosmoDb\Messages.Entity\obj\Debug\netcoreapp3.1\Messages.Entity.AssemblyInfo.cs
+D:\cosmoDb\Messages.Entity\obj\Debug\netcoreapp3.1\Messages.Entity.csproj.CoreCompileInputs.cache
+D:\cosmoDb\Messages.Entity\obj\Debug\netcoreapp3.1\Messages.Entity.dll
+D:\cosmoDb\Messages.Entity\obj\Debug\netcoreapp3.1\Messages.Entity.pdb

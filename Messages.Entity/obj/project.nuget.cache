@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lDOJFYn+yn9GzgPPHJAKNMsTyP3Az85c3pJadpjYFcswD97dUb7VPNqF2PDaVXuJ9yFWsuAcrLiQS/f1xELgCQ==",
+  "success": true,
+  "projectFilePath": "D:\\cosmoDb\\Messages.Entity\\Messages.Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abhishek.negi02\\.nuget\\packages\\microsoft.azure.documentdb\\2.16.2\\microsoft.azure.documentdb.2.16.2.nupkg.sha512"
+  ],
+  "logs": []
+}
